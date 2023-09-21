@@ -16,6 +16,5 @@
 
         public int ApplicationUserId { get; set; }
 
-        public string FullName { get; set; } 
     }
 }
